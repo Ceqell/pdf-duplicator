@@ -1,6 +1,6 @@
 # Project Moved ⚠️
 
-**"PDF Duplicator" has been renamed to "PDF Duplicator & Combiner".**
+**"pdf-duplicator" has been renamed to "pdf-duplicator-combiner".**
 
 This project has moved to a new home; all future updates, bug fixes, and new features will be published in the new repository :)
 
