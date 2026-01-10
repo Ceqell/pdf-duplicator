@@ -1,8 +1,8 @@
-# ⚠️ Project Moved
+# Project Moved ⚠️
 
 **"PDF Duplicator" has been renamed to "PDF Duplicator & Combiner".**
 
-This project has moved to a new home; All future updates, bug fixes, and new features will be published in the new repository :)
+This project has moved to a new home; all future updates, bug fixes, and new features will be published in the new repository :)
 
 ### https://github.com/Ceqell/pdf-duplicator-combiner
 
